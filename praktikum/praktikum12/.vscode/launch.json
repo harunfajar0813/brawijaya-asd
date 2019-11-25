@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InsertionSorter",
+            "request": "launch",
+            "mainClass": "com.company.InsertionSorter"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Shell",
+            "request": "launch",
+            "mainClass": "com.company.Shell"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SelectionSorter",
+            "request": "launch",
+            "mainClass": "com.company.SelectionSorter"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BubbleSorter",
+            "request": "launch",
+            "mainClass": "com.company.BubbleSorter"
+        }
+    ]
+}
